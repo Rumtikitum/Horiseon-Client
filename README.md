@@ -5,4 +5,4 @@
 An image of the site can be found in github.io.jpg
 
 [Horiseon Client Site] (https://rumtikitum.github.io/Horiseon-Client/
-"Horiseon Site)
+"Horiseon Site")
